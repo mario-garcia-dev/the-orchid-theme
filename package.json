@@ -3,7 +3,7 @@
   "displayName": "The Orchid",
   "description": "I like orchids",
   "version": "0.1.0",
-  "publisher": "403_forbidden",
+  "publisher": "403forbidden",
   "repository": {
     "type": "git",
     "url": "https://github.com/mario-garcia-dev/the-orchid-theme.git"
