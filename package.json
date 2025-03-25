@@ -1,7 +1,7 @@
 {
   "name": "the-orchid-theme",
   "displayName": "The Orchid",
-  "description": "I like orchids",
+  "description": "The Orchid is a cool dark theme :)",
   "version": "0.1.0",
   "publisher": "403forbidden",
   "repository": {
@@ -13,7 +13,7 @@
     "username": "403_forbidden",
     "github": "https://github.com/mario-garcia-dev"
   },
-  "icon": "",
+  "icon": "/assets/the-orchid.jpg",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -23,10 +23,18 @@
   "contributes": {
     "themes": [
       {
-        "label": "the-orchid",
+        "label": "The Orchid",
         "uiTheme": "vs-dark",
         "path": "./themes/the-orchid-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "orchid",
+    "purple",
+    "green",
+    "neon",
+    "synthwave",
+    "dark"
+  ]
 }

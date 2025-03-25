@@ -514,7 +514,7 @@
 		"merge.commonHeaderBackground": "#383838",
 		"merge.commonContentBackground": "#282828",
 		"editorSuggestWidget.background": "#190d1f",
-		"editorSuggestWidget.border": "#2f1b3b", // border for menus
+		"editorSuggestWidget.border": "#2f1b3b",
 		"editorSuggestWidget.foreground": "#CACACA",
 		"editorSuggestWidget.highlightForeground": "#5DE88B",
 		"editorSuggestWidget.selectedBackground": "#40224b",
