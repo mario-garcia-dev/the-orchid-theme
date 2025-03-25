@@ -2,7 +2,7 @@
   "name": "the-orchid-theme",
   "displayName": "The Orchid",
   "description": "The Orchid is a cool dark theme :)",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "403forbidden",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "username": "403_forbidden",
     "github": "https://github.com/mario-garcia-dev"
   },
-  "icon": "/assets/the-orchid.jpg",
+  "icon": "assets/the-orchid.jpg",
   "engines": {
     "vscode": "^1.98.0"
   },
