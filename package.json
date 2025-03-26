@@ -2,7 +2,7 @@
   "name": "the-orchid-theme",
   "displayName": "The Orchid",
   "description": "The Orchid is a cool dark theme :)",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "403forbidden",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   },
   "icon": "assets/the-orchid.jpg",
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.47.0"
   },
   "categories": [
     "Themes"
@@ -36,5 +36,6 @@
     "neon",
     "synthwave",
     "dark"
-  ]
+  ],
+  "license": "MIT"
 }
