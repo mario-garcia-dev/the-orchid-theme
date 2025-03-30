@@ -1,21 +1,22 @@
 # The Orchid
 
-<p align="center">I like orchids.</p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/mario-garcia-dev/assets/refs/heads/main/images/the-orchid-theme/the-orchid-no-background.png" alt="The Orchid Theme" width="200px">
 </p>
 
-If you like this color theme, please share it with others and give it five stars ⭐⭐⭐⭐⭐
+The Orchid is cool purple dark theme for VS Code. I HOPE YOU LIKE IT! Please share it with your friends and rate it with five starts: ⭐⭐⭐⭐⭐
+
+You can also visit the repository for this theme, and help me by contributing to this project to make it much better!
 
 ## Screenshots
 
-This is what it looks like with some PHP code:
+The Orchid Dark:
 
-![The Orchid Theme](https://raw.githubusercontent.com/mario-garcia-dev/assets/refs/heads/main/images/the-orchid-theme/code-example-01.png)
+![The Orchid Dark](https://raw.githubusercontent.com/mario-garcia-dev/assets/refs/heads/main/images/the-orchid-theme/code-example-dark-01.png)
 
-And with HTML:
+The Orchid Soft:
 
-![The Orchid Theme](https://raw.githubusercontent.com/mario-garcia-dev/assets/refs/heads/main/images/the-orchid-theme/code-example-02.png)
+![The Orchid Soft](https://raw.githubusercontent.com/mario-garcia-dev/assets/refs/heads/main/images/the-orchid-theme/code-example-soft-01.png)
 
 ## Installation
 1. Search for [The Orchid]() in the Visual Studio Code's Extension Marketplace

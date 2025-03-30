@@ -1,8 +1,8 @@
 {
   "name": "the-orchid-theme",
   "displayName": "The Orchid",
-  "description": "The Orchid is a cool dark theme :)",
-  "version": "0.3.0",
+  "description": "The Orchid is a cool purple dark theme!",
+  "version": "0.5.0",
   "publisher": "403forbidden",
   "repository": {
     "type": "git",
@@ -23,9 +23,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "The Orchid",
+        "label": "The Orchid Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/the-orchid-color-theme.json"
+        "path": "./themes/the-orchid-dark-color-theme.json"
+      },
+      {
+        "label": "The Orchid Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-orchid-soft-color-theme.json"
       }
     ]
   },
