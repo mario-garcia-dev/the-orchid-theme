@@ -4,6 +4,15 @@ All notable changes to the "the-orchid-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v1.1.0] - 2025-04-01
+
+- Color palettes for the syntaxis added for all the variations.
+- README.md file updated.
+
+### Fixed
+
+- In light color variation some light colors were fixed.
+
 ## [v1.0.0] - 2025-03-31
 
 - A light color variation of The Orchid Added!

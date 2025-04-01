@@ -385,8 +385,8 @@
 		"button.foreground": "#000000",
 		"button.hoverBackground": "#2FF06F",
 		"button.secondaryForeground": "#000000",
-		"button.secondaryBackground": "#55CF7E59",
-		"button.secondaryHoverBackground": "#5DE88B34",
+		"button.secondaryBackground": "#55CF7E7E",
+		"button.secondaryHoverBackground": "#55CF7EB7",
 		"commandCenter.background": "#25162C",
 		"commandCenter.activeBackground": "#4B2C5A",
 		"input.background": "#C7A2D0",
@@ -416,9 +416,9 @@
 		"editor.findRangeHighlightBorder": "#FFFFFF00",
 		"editor.rangeHighlightBackground": "#FFFFFF0B",
 		"editor.rangeHighlightBorder": "#FFFFFF00",
-		"editor.hoverHighlightBackground": "#00000021",
+		"editor.hoverHighlightBackground": "#C7A2D0EF",
 		"editor.wordHighlightStrongBackground": "#004972B8",
-		"editor.wordHighlightBackground": "#575757B8",
+		"editor.wordHighlightBackground": "#57575749",
 		"editor.lineHighlightBackground": "#DDDDDD",
 		"editor.lineHighlightBorder": "#CCCCCC",
 		"editorLineNumber.activeForeground": "#20C44E",
@@ -463,21 +463,21 @@
 		"terminalCursor.foreground": "#000000",
 		"terminal.border": "#4B2C5A",
 		"terminal.ansiBlack": "#000000",
-		"terminal.ansiBlue": "#2472C8",
+		"terminal.ansiBlue": "#226AB8",
 		"terminal.ansiBrightBlack": "#666666",
-		"terminal.ansiBrightBlue": "#3B8EEA",
-		"terminal.ansiBrightCyan": "#29B8DB",
-		"terminal.ansiBrightGreen": "#23D18B",
-		"terminal.ansiBrightMagenta": "#D670D6",
-		"terminal.ansiBrightRed": "#F14C4C",
+		"terminal.ansiBrightBlue": "#3582DA",
+		"terminal.ansiBrightCyan": "#249DBB",
+		"terminal.ansiBrightGreen": "#20B87B",
+		"terminal.ansiBrightMagenta": "#C266C2",
+		"terminal.ansiBrightRed": "#DA4646",
 		"terminal.ansiBrightWhite": "#E5E5E5",
-		"terminal.ansiBrightYellow": "#F5F543",
-		"terminal.ansiCyan": "#11A8CD",
-		"terminal.ansiGreen": "#0DBC79",
-		"terminal.ansiMagenta": "#BC3FBC",
-		"terminal.ansiRed": "#CD3131",
-		"terminal.ansiWhite": "#E5E5E5",
-		"terminal.ansiYellow": "#E5E510",
+		"terminal.ansiBrightYellow": "#C4C437",
+		"terminal.ansiCyan": "#0F96B8",
+		"terminal.ansiGreen": "#0DA56B",
+		"terminal.ansiMagenta": "#A538A5",
+		"terminal.ansiRed": "#B62D2D",
+		"terminal.ansiWhite": "#C5C5C5",
+		"terminal.ansiYellow": "#C4C40E",
 		"breadcrumb.background": "#DDDDDD",
 		"breadcrumb.foreground": "#000000",
 		"breadcrumb.focusForeground": "#8034A8",
@@ -491,7 +491,7 @@
 		"tab.activeBorderTop": "#00000000",
 		"tab.inactiveBackground": "#DDDDDD",
 		"tab.inactiveForeground": "#000000",
-		"scrollbarSlider.background": "#5de88bec",
+		"scrollbarSlider.background": "#5DE88B9D",
 		"scrollbarSlider.hoverBackground": "#5DE88B",
 		"scrollbarSlider.activeBackground": "#2FF06F",
 		"progressBar.background": "#B54AEF",
@@ -513,15 +513,16 @@
 		"notificationCenterHeader.foreground": "#000000",
 		"notificationCenterHeader.background": "#C7A2D0",
 		"notifications.border": "#653D7C",
-		"gitDecoration.addedResourceForeground": "#81B88B",
-		"gitDecoration.conflictingResourceForeground": "#6C6CC4",
-		"gitDecoration.deletedResourceForeground": "#C74E39",
+		"gitDecoration.addedResourceForeground": "#70A079",
+		"gitDecoration.conflictingResourceForeground": "#6161AF",
+		"gitDecoration.deletedResourceForeground": "#B44633",
 		"gitDecoration.ignoredResourceForeground": "#8C8C8C",
-		"gitDecoration.modifiedResourceForeground": "#E2C08D",
-		"gitDecoration.stageDeletedResourceForeground": "#C74E39",
-		"gitDecoration.stageModifiedResourceForeground": "#E2C08D",
-		"gitDecoration.submoduleResourceForeground": "#8DB9E2",
-		"gitDecoration.untrackedResourceForeground": "#73C991",
+		"gitDecoration.modifiedResourceForeground": "#C9A165",
+		"gitDecoration.stageDeletedResourceForeground": "#B44633",
+		"gitDecoration.stageModifiedResourceForeground": "#C9A165",
+		"gitDecoration.submoduleResourceForeground": "#7CA3C7",
+		"gitDecoration.untrackedResourceForeground": "#70A079",
+        "gitlens.trailingLineForegroundColor": "#9E9E9E",
 		"editorMarkerNavigation.background": "#4B2C5A",
 		"editorMarkerNavigationError.background": "#B32926",
 		"editorMarkerNavigationWarning.background": "#C7A50F",
@@ -585,27 +586,3 @@
 		"debugExceptionWidget.border": "#653D7C"
 	}
 }
-
-/* 
-
-#C3BFC4  
-#F0F0F0  
-#2E1B37  
-#362041  
-#40264D  
-#4B2C5A  
-#553368  
-#653D7C  
-#72478B  
-#7F4F9A  
-#6C6CC4  
-#BC3FBC  
-#B54AEF  
-#B54AEF21  
-#B54AEF3A  
-#B54AEF3B  
-#B54AEF83  
-#B54AEFB7  
-#B54AEF1F
-
-*/
