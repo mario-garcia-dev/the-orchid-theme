@@ -4,6 +4,12 @@ All notable changes to the "the-orchid-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v1.1.1] - 2025-04-14
+
+- Some adjustments to the colors of the dark variation.
+- Some adjustments to the colors of the soft variation.
+- Some adjustments to the colors of the light variation.
+
 ## [v1.1.0] - 2025-04-01
 
 - Color palettes for the syntaxis added for all the variations.
