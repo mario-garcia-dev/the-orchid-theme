@@ -4,6 +4,12 @@ All notable changes to the "the-orchid-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v1.1.2] - 2025-04-15
+
+### Fixed
+
+- The input.PlaceholderForeground propertie was fixed in the light variation.
+
 ## [v1.1.1] - 2025-04-14
 
 - Some adjustments to the colors of the dark variation.
