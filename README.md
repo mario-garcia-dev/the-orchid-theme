@@ -36,6 +36,9 @@ The Orchid Light:
         </td>
     </thead>
     <tbody>
-        <td><a href="https://github.com/mario-garcia-dev">403 Forbidden</a></td>
+        <td>
+            <p align="center">GitHub:</p>
+            <a href="https://github.com/mario-garcia-dev">403 Forbidden</a>
+        </td>
     </tbody>
 </table>
