@@ -31,14 +31,54 @@ The Orchid Light:
 ## Creator
 <table>
     <thead>
-        <td>
+        <td width="fit-content">
             <img src="https://avatars.githubusercontent.com/u/199692054?v=4" alt="403 Forbidden" width="100px">
         </td>
     </thead>
     <tbody>
+        <tr>
+            <td>
+                <p align="center">GitHub:</p>
+                <p align="center">
+                    <a href="https://github.com/mario-garcia-dev">403 Forbidden</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">Intagram:</p>
+                <p align="center">
+                    <a href="https://www.instagram.com/403.forbidden___">403.forbidden___</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">LinkedIn:</p>
+                <p align="center">
+                    <a href="https://www.linkedin.com/in/mario-alberto-garc%C3%ADa-serna-a294a5288">Mario Garcia</a>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+## You might also like:
+
+<table>
+    <thead>
         <td>
-            <p align="center">GitHub:</p>
-            <a href="https://github.com/mario-garcia-dev">403 Forbidden</a>
+            <p align="center">
+                <img src="https://raw.githubusercontent.com/mario-garcia-dev/assets/refs/heads/main/images/solitude-theme/solitude-icon.jpg" alt="Solitude Theme" width="100px">
+            </p>
+        </td>
+    </thead>
+    <tbody>
+        <td>
+            <p align="center">
+                <a href="https://marketplace.visualstudio.com/items?itemName=403forbidden.solitude-color-theme">Solitude Color Theme</a>
+                <p align="center">The world is a lonely place...</p>
+            </p>
         </td>
     </tbody>
 </table>

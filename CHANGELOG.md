@@ -4,6 +4,10 @@ All notable changes to the "the-orchid-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v1.1.4] - 2025-04-17
+
+- README.md file updated.
+
 ## [v1.1.3] - 2025-04-17
 
 - Some adjustments to the borders and colors of the dark variation.
