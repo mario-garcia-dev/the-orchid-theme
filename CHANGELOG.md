@@ -4,6 +4,13 @@ All notable changes to the "the-orchid-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v1.1.5] - 2025-05-06
+
+### Fixed
+
+- The Peek View colors in the light variation were fixed.
+- Inactive foreground for the Activity Bar was fixed because there was no contrast when using the Activitus Bar extension while debugging.
+
 ## [v1.1.4] - 2025-04-17
 
 - README.md file updated.
