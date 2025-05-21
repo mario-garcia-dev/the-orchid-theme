@@ -4,7 +4,7 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"enumMember": {
-			"foreground": "#259EB4",
+			"foreground": "#1DAD63",
 		}
 	},
 	"tokenColors": [
@@ -16,7 +16,7 @@
 				"tag.decorator.js punctuation.definition.tag.js",
 			],
 			"settings": {
-				"foreground": "#259EB4",
+				"foreground": "#1DAD63",
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 				"entity.other.attribute-name.class",
 			],
 			"settings": {
-				"foreground": "#259EB4",
+				"foreground": "#1DAD63",
 			}
 		},
 		{
