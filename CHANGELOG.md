@@ -4,6 +4,10 @@ All notable changes to the "the-orchid-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v1.1.7] - 2025-05-28
+
+- I didn't like the CSS classes color, so I updated it.
+
 ## [v1.1.6] - 2025-05-21
 
 - The color of enums, escape characters and decorators were updated.
