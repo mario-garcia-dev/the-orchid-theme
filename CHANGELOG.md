@@ -4,6 +4,12 @@ All notable changes to the "the-orchid-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v1.1.8] - 2025-06-20
+
+### Fixed
+
+- The strange blinking before the window reload of meta.object-literal.key rule was fixed.
+
 ## [v1.1.7] - 2025-05-28
 
 - I didn't like the CSS classes color, so I updated it.
